@@ -33,11 +33,17 @@ My current focus is on:
 
 ---
 
-## 📊 GitHub Activity
+## 🚧 Work in Progress
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilsoncarden&theme=dark&show_icons=true&hide_border=true" />
-</div>
+I am currently working on larger-scale projects, focused on solving real-world problems while strengthening my fundamentals as a developer.
+
+At this stage, my priority is not to showcase finished results, but to:
+- consolidate technical foundations  
+- gain a deeper understanding of system architecture  
+- improve code quality and clarity  
+- learn to build with a long-term mindset  
+
+These projects are in constant evolution, just like my learning process.
 
 ---
 
